@@ -13,4 +13,6 @@ print('Rick Sanchez once said, "Wubba Lubba Dub Dub."')
 #2-6
 FamousPerson= 'Rick Sanchez'
 print(f'{FamousPerson} once said, "Wubba Lubba Dub Dub."')
-print(FamousPerson + 'once said, "Wubba Lubba Dub Dub."')
+#print(FamousPerson + 'once said, "Wubba Lubba Dub Dub."')
+
+firstName
